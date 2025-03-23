@@ -1,10 +1,10 @@
-Nombre del proyecto:
+# Nombre del proyecto:
 Proyecto PHP
-Descripcion:
+## Descripcion:
 Proyecto codificado en PHP en donde aparezca el texto "Hola mundo, soy Angelo R"
-Prerrequisitos:
+## Prerrequisitos:
 Leonardo IA
-Pasos para su ejecucion:
+## Pasos para su ejecucion:
 Solamente ir al navegador colocar la direccion ip + ubicacion de carpeta del proyecto y dar enter para ejecutar
-Datos del autor:
+## Datos del autor:
 Angelo Ralac, 1210086, 1210086@galileo.edu
