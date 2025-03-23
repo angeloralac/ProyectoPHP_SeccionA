@@ -1,5 +1,4 @@
-# Nombre del proyecto:
-Proyecto PHP
+# Proyecto PHP
 ## Descripcion:
 Proyecto codificado en PHP en donde aparezca el texto "Hola mundo, soy Angelo R"
 ## Prerrequisitos:
